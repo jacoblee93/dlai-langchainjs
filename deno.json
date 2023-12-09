@@ -1,0 +1,10 @@
+{
+  "imports": {
+    "langchain": "npm:/langchain@0.0.204-rc.1",
+    "langchain/": "npm:/langchain@0.0.204-rc.1/",
+    "dotenv/config": "npm:/dotenv/config",
+    "ignore": "npm:/ignore",
+    "pdf-parse": "npm:/pdf-parse",
+    "ml-distance": "npm:/ml-distance"
+  }
+}
